@@ -19,7 +19,7 @@ us-wind-energy-analysis/
 ├── data/
 │   └── US-Wind-MWh_1000.txt              # Wind energy production data
 └── report/
-    └── analysis_report.pdf                # Detailed report (if available)
+    └── analysis_report.pdf                # Detailed report (ITALIANO)
 ```
 
 ## Data Information
